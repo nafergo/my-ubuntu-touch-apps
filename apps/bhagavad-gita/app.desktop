@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Bhagavad-Gita
+Comment=Bhagavad-Gita
+Exec=webapp-container $@ www/index.html
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+Icon=./icon.png

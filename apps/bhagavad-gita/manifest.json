@@ -1,0 +1,14 @@
+{
+    "description":  "Bhagavad-Gita",
+    "framework":    "ubuntu-sdk-14.10-html",
+    "hooks": {
+        "bhagavad-gita": {
+            "apparmor": "app.json",
+            "desktop":  "app.desktop"
+        }
+    },
+    "maintainer":   "Nelson Gonçalves <nafergo@gmail.com>",
+    "name":         "bhagavad-gita.nafergo",
+    "title":        "Bhagavad-Gita",
+    "version":      "0.1"
+}
