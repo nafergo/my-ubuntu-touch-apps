@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Dropr
+Comment=An online portfolio platform for creatives to showcase their work and seek inspiration.
+Type=Application
+Icon=dropr.png
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://dropr.com/* http://dropr.com %u
+Terminal=false
+X-Ubuntu-Touch=true
+

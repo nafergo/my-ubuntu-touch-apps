@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Blender Cloud
+Comment=Blender Cloud is a high quality web service of the Blender Institute in which they share all data of open movies and training videos and files.
+Type=Application
+Icon=blendercloud.png
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://cloud.blender.org/* http://cloud.blender.org %u
+Terminal=false
+X-Ubuntu-Touch=true
+

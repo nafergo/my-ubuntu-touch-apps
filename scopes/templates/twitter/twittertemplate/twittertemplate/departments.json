@@ -1,0 +1,39 @@
+{
+ "departments": [
+        {
+            "name":"La Liga",
+            "type":"list",
+            "id":"laliga"
+        },
+        {
+            "name":"FC Barcelona",
+            "type":"account",
+            "id":"FCBarcelona_es"
+        },
+        {
+            "name":"Real Madrid",
+            "type":"account",
+            "id":"realmadrid"
+        },{
+            "name":"Atletico de Madrid",
+            "type":"account",
+            "id":"Atleti"
+        },{
+            "name":"Valencia FC",
+            "type":"account",
+            "id":"valenciacf"
+        },{
+            "name":"Sevilla FC",
+            "type":"account",
+            "id":"SevillaFC"
+        }
+ ],
+ "configuration": {
+        "list-account":"canonical_scope",
+        "openontwitter":"Ver en Twitter",
+        "openlink":"Abrir Link",
+	"retweet":"Retweet",
+	"favorite": "Favorito",
+	"reply":"Contestar"
+    }
+}

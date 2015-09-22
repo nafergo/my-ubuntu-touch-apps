@@ -1,0 +1,17 @@
+{
+    "name": "blendermanual.nafergo",
+    "description": "Blender’s user manual is available online in several languages and is constantly updated by a worldwide collaboration of volunteers every day.",
+    "architecture": "all",
+    "title": "Blender Manual",
+    "hooks": {
+        "blendermanual": {
+            "apparmor": "blendermanual.apparmor",
+            "desktop":  "blendermanual.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nelson Gonçalves <nafergo@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

@@ -1,0 +1,17 @@
+{
+    "name": "doyogawithme.nafergo",
+    "description": "An online directory of Free/Libre Software and resources for animation production.",
+    "architecture": "all",
+    "title": "DoYogaWithMe",
+    "hooks": {
+        "doyogawithme": {
+            "apparmor": "doyogawithme.apparmor",
+            "desktop":  "doyogawithme.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nelson Gonçalves <nafergo@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

@@ -1,0 +1,16 @@
+{
+    "description": "twitter template description",
+    "framework": "ubuntu-sdk-14.10",
+    "architecture": "armhf",
+    "hooks": {
+        "twittertemplate": {
+            "scope": "twittertemplate",
+            "apparmor": "scope-security.json"
+        }
+    },
+    "icon": "icon",
+    "maintainer": "nelson gonçalves <nafergo@gmail.com>",
+    "name": "twittertemplate.nafergo",
+    "title": "twitter template",
+    "version": "0.1"
+}

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Libre Pipeline for Animation
+Comment=An online directory of Free/Libre Software and resources for animation production.
+Type=Application
+Icon=librepipelineforanimation.png
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://librepipeline.animaxionstudioz.com/* http://librepipeline.animaxionstudioz.com %u
+Terminal=false
+X-Ubuntu-Touch=true
+

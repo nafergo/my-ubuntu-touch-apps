@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Blender Manual
+Comment=Blender’s user manual is available online in several languages and is constantly updated by a worldwide collaboration of volunteers every day.
+Type=Application
+Icon=blendermanual.png
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://www.blender.org/manual/* http://www.blender.org/manual %u
+Terminal=false
+X-Ubuntu-Touch=true
+

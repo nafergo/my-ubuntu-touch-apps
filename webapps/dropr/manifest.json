@@ -1,0 +1,17 @@
+{
+    "name": "dropr.nafergo",
+    "description": "An online portfolio platform for creatives to showcase their work and seek inspiration.",
+    "architecture": "all",
+    "title": "Dropr",
+    "hooks": {
+        "dropr": {
+            "apparmor": "dropr.apparmor",
+            "desktop":  "dropr.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nelson Gonçalves <nafergo@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

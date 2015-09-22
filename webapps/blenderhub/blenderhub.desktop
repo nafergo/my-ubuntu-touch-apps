@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Blender Hub
+Comment=Blender Hub is a online tutorials website for 3D Blender that lets anyone learn Blender and share tutorials.
+Type=Application
+Icon=blenderhub.png
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://blenderhub.com/* http://blenderhub.com %u
+Terminal=false
+X-Ubuntu-Touch=true
+

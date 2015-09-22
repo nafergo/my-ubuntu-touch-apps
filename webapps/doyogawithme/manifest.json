@@ -1,0 +1,17 @@
+{
+    "name": "doyogawithme.nafergo",
+    "description": "DoYogaWithMe is a free online library of yoga videos, including classes, yoga poses, breathing exercises, ...",
+    "architecture": "all",
+    "title": "DoYogaWithMe",
+    "hooks": {
+        "doyogawithme": {
+            "apparmor": "doyogawithme.apparmor",
+            "desktop":  "doyogawithme.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nelson Gonçalves <nafergo@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

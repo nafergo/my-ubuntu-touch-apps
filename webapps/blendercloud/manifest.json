@@ -1,0 +1,17 @@
+{
+    "name": "blendercloud.nafergo",
+    "description": "Blender Cloud is a high quality web service of the Blender Institute in which they share all data of open movies and training videos and files.",
+    "architecture": "all",
+    "title": "Blender Cloud",
+    "hooks": {
+        "blendercloud": {
+            "apparmor": "blendercloud.apparmor",
+            "desktop":  "blendercloud.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nelson Gonçalves <nafergo@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

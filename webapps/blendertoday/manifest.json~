@@ -1,0 +1,17 @@
+{
+    "name": "blendertoday.nafergo",
+    "description": "DoYogaWithMe is a free online library of yoga videos, including classes, yoga poses, breathing exercises, ...",
+    "architecture": "all",
+    "title": "Blender.Today",
+    "hooks": {
+        "blendertoday": {
+            "apparmor": "blendertoday.apparmor",
+            "desktop":  "blendertoday.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nelson Gonçalves <nafergo@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

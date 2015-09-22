@@ -1,0 +1,17 @@
+{
+    "name": "blendermanual.nafergo",
+    "description": "Blender Hub is a online tutorials website for 3D Blender that lets anyone learn Blender and share tutorials.",
+    "architecture": "all",
+    "title": "Blender Manual",
+    "hooks": {
+        "blendermanual": {
+            "apparmor": "blendermanual.apparmor",
+            "desktop":  "blendermanual.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nelson Gonçalves <nafergo@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

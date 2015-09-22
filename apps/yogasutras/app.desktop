@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=The Yoga Sutras of Patanjali
+Comment=The Yoga Sutras of Patanjali
+Exec=webapp-container $@ www/index.html
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+Icon=./icon.png

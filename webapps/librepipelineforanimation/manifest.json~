@@ -1,0 +1,17 @@
+{
+    "name": "librepipelineforanimation.nafergo",
+    "description": "A directory of Free/Libre Software for animation production.",
+    "architecture": "all",
+    "title": "Libre Pipeline for Animation",
+    "hooks": {
+        "librepipelineforanimation": {
+            "apparmor": "librepipelineforanimation.apparmor",
+            "desktop":  "librepipelineforanimation.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nelson Gonçalves <nafergo@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

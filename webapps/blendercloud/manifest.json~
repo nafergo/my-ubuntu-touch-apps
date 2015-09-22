@@ -1,0 +1,17 @@
+{
+    "name": "blendertoday.nafergo",
+    "description": "Blender.Today is community-driven Blender news.",
+    "architecture": "all",
+    "title": "Blender.Today",
+    "hooks": {
+        "blendertoday": {
+            "apparmor": "blendertoday.apparmor",
+            "desktop":  "blendertoday.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nelson Gonçalves <nafergo@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

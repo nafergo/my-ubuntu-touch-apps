@@ -1,0 +1,16 @@
+{
+    "description": "A scope that aggregates tweets related to Blender 3D software",
+    "framework": "ubuntu-sdk-14.10",
+    "architecture": "armhf",
+    "hooks": {
+        "blendertweetsscope": {
+            "scope": "blendertweetsscope",
+            "apparmor": "scope-security.json"
+        }
+    },
+    "icon": "icon",
+    "maintainer": "Nelson Gonçalves <nafergo@gmail.com>",
+    "name": "blendertweetsscope.nafergo",
+    "title": "Blender Tweets",
+    "version": "0.2"
+}

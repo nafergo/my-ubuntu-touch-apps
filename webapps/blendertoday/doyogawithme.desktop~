@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=DoYogaWithMe
+Comment=DoYogaWithMe is a free online library of yoga videos, including classes, yoga poses, breathing exercises, ...
+Type=Application
+Icon=doyogawithme.png
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://www.doyogawithme.com/* http://www.doyogawithme.com/ %u
+Terminal=false
+X-Ubuntu-Touch=true
+

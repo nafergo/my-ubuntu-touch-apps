@@ -1,0 +1,14 @@
+{
+    "description":  "The Yoga Sutras of Patanjali",
+    "framework":    "ubuntu-sdk-14.10-html",
+    "hooks": {
+        "yogasutras": {
+            "apparmor": "app.json",
+            "desktop":  "app.desktop"
+        }
+    },
+    "maintainer":   "Nelson Gonçalves <nafergo@gmail.com>",
+    "name":         "yogasutras.nafergo",
+    "title":        "The Yoga Sutras of Patanjali",
+    "version":      "0.3"
+}

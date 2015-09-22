@@ -1,0 +1,15 @@
+{
+    "name": "youtubetemplate.nafergo",
+    "description": "youtube template description",
+    "framework": "ubuntu-sdk-14.10",
+    "architecture": "armhf",
+    "title": "youtube template title",
+    "hooks": {
+        "youtubetemplate": {
+            "scope": "youtubetemplate",
+            "apparmor": "scope-security.json"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "nelson gonçalves <nafergo@gmail.com>"
+}

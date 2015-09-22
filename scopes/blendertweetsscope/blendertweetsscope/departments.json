@@ -1,0 +1,49 @@
+{
+ "departments": [
+        {
+            "name":"Official Accounts List",
+            "type":"list",
+            "id":"blender-official-tweets"
+        },{
+            "name":"Artists List",
+            "type":"list",
+            "id":"blender-artists"
+        },{
+            "name":"Developers List",
+            "type":"list",
+            "id":"blender-developers"
+        },{
+            "name":"Learning List",
+            "type":"list",
+            "id":"blender-learning"
+        },{
+            "name":"Projects List",
+            "type":"list",
+            "id":"blender-projects"
+        },{
+            "name":"@ Adventures in Blender",
+            "type":"account",
+            "id":"AIBlender"
+        },{
+            "name":"@ Blender.Today",
+            "type":"account",
+            "id":"BlenderToday"
+        },{
+            "name":"@ BlenderNation",
+            "type":"account",
+            "id":"BlenderNation"
+        },{
+            "name":"@ Ton Roosendaal",
+            "type":"account",
+            "id":"tonroosendaal"
+        }
+ ],
+ "configuration": {
+        "list-account":"nafergo",
+        "openontwitter":"Open on Twitter",
+        "openlink":"Open Link",
+	"retweet":"Retweet",
+	"favorite": "Favorite",
+	"reply":"Reply"
+    }
+}

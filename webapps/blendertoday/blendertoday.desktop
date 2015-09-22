@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Blender.Today
+Comment=Blender.Today is community-driven Blender news.
+Type=Application
+Icon=blendertoday.png
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://blender.today/* http://blender.today %u
+Terminal=false
+X-Ubuntu-Touch=true
+
